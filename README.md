@@ -16,9 +16,8 @@
 
 ---
 <div>
-  <p>👨‍💻 I am a passionate Web Developer who loves to design cool things on the internet and hope to make a meaningful impact in this world!
-  <br>
-  🎥 Another passion of mine is to create awesome contents on <strong><span style="color:red">YouTube</span></strong> about Tech products and Wed Dev which you can check it out <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a> or the red link button above.</p>
+  <p>👨‍💻 I am a passionate Web Developer who loves to design cool things on the internet and hope to make a meaningful impact in this world!</p>
+  <p>🎥 Another passion of mine is to create awesome contents on <strong><span style="color:red">YouTube</span></strong> about Tech products and Wed Dev which you can check it out <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a> or the red link button above.</p>
 </div>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
