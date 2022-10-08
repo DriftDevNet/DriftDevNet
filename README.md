@@ -21,7 +21,7 @@
 </div>
 
 
-<a href="https://app.daily.dev/DriftDev"><img align='right' src="https://api.daily.dev/devcards/bbccd90d79134daabcec09c2fd762b49.png?r=a34" width="400" alt="Chen's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img align='right' src="https://github.com/DriftDevNet/DriftDevNet/devcard.svg" width="300" alt="Chen's Dev Card"/></a>
 
 🏃🏻 **What am I up to lately:**
 
