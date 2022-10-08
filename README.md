@@ -2,8 +2,6 @@
 
 ### <samp>&gt; Hey there, my name is <a href="https://gkassym.netlify.app" target="_blank">Chen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
 
-#### <samp>Hey there, my name is <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a></samp>
-
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/chengmouzhao/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,24 +15,24 @@
 </div>
 
 ---
-#### <samp>👨‍💻 I am a passionate Web Developer who loves to design cool things on the internet and hope to make a meaningful impact in this world!</samp>
-<br>
-#### <samp>🎥 Another passion of mine is to create awesome contents on Youtube about Tech products and wed dev which you can check it out <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a> or the red link button above.</samp>
+<div>
+  <p>👨‍💻 I am a passionate Web Developer who loves to design cool things on the internet and hope to make a meaningful impact in this world!
+  <br>
+  🎥 Another passion of mine is to create awesome contents on <strong><span style="color:red">YouTube</span></strong> about Tech products and Wed Dev which you can check it out <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a> or the red link button above.</p>
+</div>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
-  
 
-🏃🏻**What am I up to lately:**
+🏃🏻 **What am I up to lately:**
 
 - I’m currently learning **NextJS** and **tailwind** to expend my arsenal;
 - Actively involved in FCC (Free Code Camp) Dallas chapter to learn and network with fellow Devs;
-- Very excited about 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
-
-</br>
+- Very excited to working on multiple projects for my portfolio.
+- You can reach me at: chen@driftdev.net
+- Resume: http://driftdev.net
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -42,7 +40,6 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
 
 📈 **My GitHub Journey:**
 
