@@ -2,6 +2,8 @@
 
 ### <samp>&gt; Hey there, my name is <a href="https://gkassym.netlify.app" target="_blank">Chen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
 
+#### <samp>Hey there, my name is <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a></samp>
+
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/chengmouzhao/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +17,9 @@
 </div>
 
 ---
-I am a passionate Web Developer and Content Creator. I love to design cool things on the internet and hope to make a meaningful impact in this world!
+#### <samp>👨‍💻 I am a passionate Web Developer who loves to design cool things on the internet and hope to make a meaningful impact in this world!</samp>
+<br>
+#### <samp>🎥 Another passion of mine is to create awesome contents on Youtube about Tech products and wed dev which you can check it out <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a> or the red link button above.</samp>
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
