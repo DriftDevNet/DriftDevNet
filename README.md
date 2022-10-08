@@ -20,7 +20,8 @@
   <p>🎥 Another passion of mine is to create awesome contents on <strong><span style="color:red">YouTube</span></strong> about Tech products and Wed Dev which you can check it out <a href="https://www.youtube.com/c/DriftDev" target="_blank">HERE</a> or the red link button above.</p>
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
+<a href="https://app.daily.dev/DriftDev"><img align='right' src="https://api.daily.dev/devcards/bbccd90d79134daabcec09c2fd762b49.png?r=a34" width="400" alt="Chen's Dev Card"/></a>
 
 🏃🏻 **What am I up to lately:**
 
@@ -38,6 +39,6 @@
 📈 **My GitHub Journey:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DriftDevNet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DriftDevNet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DriftDevNet&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
