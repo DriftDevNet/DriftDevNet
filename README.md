@@ -33,6 +33,18 @@
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
+
+```text
+From: 08 October 2022 - To: 09 October 2022
+
+Total Time: 45 mins
+
+JavaScript   35 mins         >>>>>>>>>>>>>>>>>>>------   77.68 %
+HTML         6 mins          >>>>---------------------   15.32 %
+JSON         2 mins          >------------------------   04.97 %
+Other        0 secs          -------------------------   01.02 %
+```
+
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Journey:**
