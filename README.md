@@ -1,6 +1,6 @@
 <img src="driftdev banner.png" width="auto"/>
 
-### <samp>&gt; Hey there, my name is <a href="https://gkassym.netlify.app" target="_blank">Chen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
+### <samp>&gt; Hey there, my name is <a href="https://driftdev.net" target="_blank">Chen</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/chengmouzhao/)">
