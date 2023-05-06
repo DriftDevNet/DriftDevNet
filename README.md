@@ -35,7 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 03 May 2023
+From: 08 October 2022 - To: 04 May 2023
 
 Total Time: 6 hrs 2 mins
 
@@ -43,6 +43,7 @@ JavaScript   3 hrs 53 mins   >>>>>>>>>>>>>>>>---------   64.25 %
 SCSS         1 hr 26 mins    >>>>>>-------------------   23.83 %
 HTML         18 mins         >------------------------   05.19 %
 Other        14 mins         >------------------------   04.03 %
+JSON         8 mins          >------------------------   02.23 %
 ```
 
 <!--END_SECTION:waka-->
